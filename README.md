@@ -1,3 +1,4 @@
+![image](https://github.com/TechGeek-Mohit/TechGeek-Mohit/assets/101231709/9d4731ec-6913-42f6-a410-6ed9628a4056)
 <h1 align="center">Hi 👋, I'm Techgeek Mohit</h1>
 <h3 align="center">Silicon Valley's Code Explorer: Unraveling Tech Mysteries as a Computer Science Student.</h3>
 
