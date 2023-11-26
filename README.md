@@ -1,4 +1,4 @@
-![image](https://github.com/TechGeek-Mohit/TechGeek-Mohit/assets/101231709/9d4731ec-6913-42f6-a410-6ed9628a4056)
+<img src="https://github.com/TechGeek-Mohit/TechGeek-Mohit/assets/101231709/de4b233a-414b-47e2-b390-1a07eb2d991d" width="100%" height="200">
 <h1 align="center">Hi 👋, I'm Techgeek Mohit</h1>
 <h3 align="center">Silicon Valley's Code Explorer: Unraveling Tech Mysteries as a Computer Science Student.</h3>
 
@@ -18,9 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohit-sonwane-62548821b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-sonwane-62548821b" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/mohitsonwane786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mohitsonwane786" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/mohit_mk_s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mohit_mk_s/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohit-sonwane-62548821b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-sonwane-62548821b" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mohit_mk_s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mohit_mk_s/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
