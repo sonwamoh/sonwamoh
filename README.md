@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Techgeek Mohit</h1>
 <h3 align="center">Silicon Valley's Code Explorer: Unraveling Tech Mysteries as a Computer Science Student.</h3>
 
-- 🔭 I’m currently working on **Machine Learning on Performance Attribution**
+- 🔭 I’m currently working on **Machine Learning on Performance Attribution (Quant)**
 
 - 🌱 I’m currently learning **Quantitative Finance, Machine Learning, Data Engineering**
 
