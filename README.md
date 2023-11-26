@@ -1,4 +1,4 @@
-<img src="https://github.com/TechGeek-Mohit/TechGeek-Mohit/assets/101231709/de4b233a-414b-47e2-b390-1a07eb2d991d" width="100%" height="200">
+<img src="https://github.com/TechGeek-Mohit/TechGeek-Mohit/assets/101231709/de4b233a-414b-47e2-b390-1a07eb2d991d" width="100%" height="200"> 
 <h1 align="center">Hi 👋, I'm Techgeek Mohit</h1>
 <h3 align="center">Silicon Valley's Code Explorer: Unraveling Tech Mysteries as a Computer Science Student.</h3>
 
