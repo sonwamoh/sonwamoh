@@ -1,5 +1,7 @@
 <img src="https://github.com/sonwamoh/sonwamoh/assets/101231709/de4b233a-414b-47e2-b390-1a07eb2d991d" width="100%" height="200"> 
 
+<h3 align="left">🎓 Overview</h3>
+
 📚 Learning Blockchain, Quant Finance, ML, Data Engineering
 
 👯 Want to collaborate on Quant Finance Projects
@@ -21,8 +23,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonwamoh&show_icons=true&locale=en&layout=compact" alt="sonwamoh" /></p>
 
-
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=sonwamoh&&style=flat-square)  
+
+![CodingDeveloperCodeGIF](https://github.com/sonwamoh/sonwamoh/assets/101231709/24f2a66a-55c1-46a8-a965-2e8096e9be8a)
+
+
 
 
