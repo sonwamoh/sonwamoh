@@ -1,5 +1,5 @@
 <img src="https://github.com/sonwamoh/sonwamoh/assets/101231709/de4b233a-414b-47e2-b390-1a07eb2d991d" width="100%" height="200"> 
-# Silicon Valley's Code Explorer 🌟
+### Silicon Valley's Code Explorer 🌟
 
 📚 Learning Blockchain, Quant Finance, ML, Data Engineering
 
