@@ -1,5 +1,4 @@
 <img src="https://github.com/sonwamoh/sonwamoh/assets/101231709/de4b233a-414b-47e2-b390-1a07eb2d991d" width="100%" height="200"> 
-### Silicon Valley's Code Explorer 🌟
 
 📚 Learning Blockchain, Quant Finance, ML, Data Engineering
 
@@ -22,7 +21,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonwamoh&show_icons=true&locale=en&layout=compact" alt="sonwamoh" /></p>
 
-### ✍️Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-[![](https://visitcount.itsvg.in/api?id=sonwamoh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![Profile views counter](https://komarev.com/ghpvc/?username=sonwamoh&&style=flat-square)  
+
+
