@@ -25,7 +25,6 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=sonwamoh&&style=flat-square)  
 
-![CodingDeveloperCodeGIF](https://github.com/sonwamoh/sonwamoh/assets/101231709/24f2a66a-55c1-46a8-a965-2e8096e9be8a)
 
 
 
