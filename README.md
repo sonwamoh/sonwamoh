@@ -1,35 +1,62 @@
-# Mohit Sonwane
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsonwamoh%2Fsonwamoh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sonwamoh/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/mohit_mk.s/)](https://www.instagram.com/mohit_mk.s)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mohit.sonwane@sjsu.edu)
-
-[![Github](https://img.shields.io/github/followers/sonwamoh?label=Follow&style=social)](https://github.com/sonwamoh)
-
-### 🖥 Skills
-
-- Software Engineering
-- Full Stack Development
-- Machine Learning
-- Data Engineering
-- Quantitative Trading
-
-### ⚙️ Tech Stack
-
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=81817d) ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&color=81817d) ![Bootstrap](https://img.shields.io/badge/-SQL-05122A?style=flat-square&logo=SQL&color=81817d) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=81817d) ![Bootstrap](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat-square&logo=Spring-Boot&color=81817d) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=81817d) ![Bootstrap](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase&color=81817d) ![Bootstrap](https://img.shields.io/badge/-Redis-05122A?style=flat-square&logo=Redis&color=81817d) ![Bootstrap](https://img.shields.io/badge/-SQlite-05122A?style=flat-square&logo=SQlite&color=81817d) ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript&color=81817d) ![Bootstrap](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=TypeScript&color=81817d) ![Bootstrap](https://img.shields.io/badge/-Angular-05122A?style=flat-square&logo=Angular&color=81817d) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=81817d) ![Bootstrap](https://img.shields.io/badge/-JavaFX-05122A?style=flat-square&logo=JavaFX&color=81817d) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=Bootstrap&color=81817d) ![Bootstrap](https://img.shields.io/badge/-MUI-05122A?style=flat-square&logo=MUI&color=81817d) ![Bootstrap](https://img.shields.io/badge/-Scikitlearn-05122A?style=flat-square&logo=Scikitlearn&color=81817d) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=81817d) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=81817d) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=81817d) ![Bootstrap](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat-square&logo=Google-Cloud&color=81817d) ![Bootstrap](https://img.shields.io/badge/-SAP%20-05122A?style=flat-square&logo=SAP&color=81817d) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux&color=81817d)
-
-
-
-<p align="center">
-  <img src="https://github.com/sonwamoh/sonwamoh/assets/101231709/ea857cf4-ea0e-45af-8b77-c1d3e4d1a677" alt="WebDeveloperMycrxnGIF">
-</p>
-
-
-
-
-
-
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mohit Sonwane</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    .container {
+        max-width: 100%;
+    }
+    img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
+</style>
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <h1>Mohit Sonwane</h1>
+            <p>Software Engineer | Full Stack Developer | Machine Learning Enthusiast</p>
+            <p>
+                <a href="https://www.linkedin.com/in/sonwamoh/" class="btn btn-primary">LinkedIn</a>
+                <a href="https://www.instagram.com/mohit_mk.s" class="btn btn-primary">Instagram</a>
+                <a href="mailto:mohit.sonwane@sjsu.edu" class="btn btn-primary">Gmail</a>
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <h2>Skills</h2>
+            <ul>
+                <li>Software Engineering</li>
+                <li>Full Stack Development</li>
+                <li>Machine Learning</li>
+                <li>Data Engineering</li>
+                <li>Quantitative Trading</li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <h2>Tech Stack</h2>
+            <!-- Add your tech stack badges here -->
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <img src="https://github.com/sonwamoh/sonwamoh/assets/101231709/ea857cf4-ea0e-45af-8b77-c1d3e4d1a677" alt="WebDeveloperMycrxnGIF">
+        </div>
+    </div>
+</div>
+</body>
+</html>
