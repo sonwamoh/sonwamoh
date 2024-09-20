@@ -10,9 +10,9 @@
 
 - Software Engineering
 - Full Stack Development
-- Machine Learning
-- Data Engineering
-- Quantitative Trading
+- Machine Learning & Data Engineering
+- Quantitative Trading (Mutual Funds)
+- Procurement (SAP Ariba)
 
 ### ⚙️ Tech Stack
 
